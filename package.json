@@ -1,9 +1,9 @@
 {
   "name": "quac-img processor",
-  "description": "Processor to maintain img url with key of revalidate & cache.",
+  "description": "processor to maintain img url with key of revalidate & cache.",
   "version": "0.1.0",
   "private": true,
-  "author": "Quac Network <hey@quacthemes.com> (@quackery)",
+  "author": "quac network <hey@quacthemes.com> (@quackery)",
   "license": "MIT",
   "keywords": [
     "Quac",
